@@ -1,0 +1,6 @@
+{
+  "name": "Kinh Kỳ Tân Thời - Việt Phục Gen Z Studio",
+  "description": "Nền tảng định hình phong cách phối Việt phục cho thế hệ trẻ: Interactive Discovery Quiz, phòng phối đồ tương tác thời gian thực, thước đo tôn trọng văn hóa và bộ sưu tập 100 bản phối di sản đương đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
